@@ -2,7 +2,7 @@
   <div class="mx-auto min-h-screen max-w-7xl px-4 pb-10 pt-5 sm:px-6 lg:px-8">
     <header class="mb-6 overflow-hidden rounded-3xl border border-white/70 bg-white/80 shadow-card backdrop-blur">
       <div
-        class="flex flex-col gap-3 bg-gradient-to-r from-brand-700 via-brand-600 to-sky-500 px-5 py-6 text-white sm:flex-row sm:items-center sm:justify-between sm:px-7"
+        class="flex flex-col gap-3 bg-brand-600 px-5 py-6 text-white sm:flex-row sm:items-center sm:justify-between sm:px-7"
       >
         <NuxtLink to="/" class="text-2xl font-extrabold tracking-tight">BookingApp</NuxtLink>
         <nav class="flex flex-wrap items-center gap-2 text-sm font-semibold">

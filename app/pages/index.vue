@@ -1,7 +1,7 @@
 <template>
   <section class="grid gap-6 lg:grid-cols-[1.6fr,1fr]">
     <div class="space-y-5">
-      <div class="rounded-3xl bg-gradient-to-br from-brand-700 via-brand-600 to-sky-500 p-6 text-white shadow-card sm:p-8">
+      <div class="rounded-3xl bg-brand-600 p-6 text-white shadow-card sm:p-8">
         <p class="text-sm font-semibold uppercase tracking-wide text-white/85">Booking UI App</p>
         <h1 class="mt-2 max-w-xl text-3xl font-extrabold leading-tight sm:text-4xl">
           Plan and book your stay in one smooth flow.
@@ -12,9 +12,6 @@
       </div>
 
       <SearchForm :initial="store.search" button-label="Search available stays" @submit="onSearch">
-        <p class="text-xs font-semibold uppercase tracking-wide text-brand-700">
-          Data source: static JSON + localStorage persistence
-        </p>
       </SearchForm>
     </div>
 
