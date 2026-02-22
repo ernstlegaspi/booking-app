@@ -1,0 +1,23 @@
+[
+  {
+    "id": "spa-deep-tissue",
+    "name": "Deep Tissue Massage",
+    "durationMinutes": 60,
+    "basePrice": 95,
+    "location": "Miami, FL"
+  },
+  {
+    "id": "city-photo-tour",
+    "name": "City Photo Tour",
+    "durationMinutes": 120,
+    "basePrice": 75,
+    "location": "New York, NY"
+  },
+  {
+    "id": "airport-transfer",
+    "name": "Private Airport Transfer",
+    "durationMinutes": 45,
+    "basePrice": 60,
+    "location": "Seattle, WA"
+  }
+]

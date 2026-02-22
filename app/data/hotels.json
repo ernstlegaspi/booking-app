@@ -1,0 +1,356 @@
+[
+  {
+    "id": "ocean-vista-miami",
+    "name": "Ocean Vista Hotel",
+    "location": "Miami, FL",
+    "category": "Resort",
+    "rating": 4.8,
+    "reviewCount": 312,
+    "description": "Beachfront resort with bright rooms, sunset decks, and easy access to downtown nightlife.",
+    "amenities": ["Pool", "WiFi", "Breakfast", "Gym", "Spa", "Parking"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "policies": [
+      "Free cancellation up to 48 hours before check-in.",
+      "Check-in from 3:00 PM, check-out by 11:00 AM.",
+      "Resort fee includes pool access, gym, and WiFi."
+    ],
+    "nearby": ["South Beach (8 min)", "PortMiami (15 min)", "MIA Airport (20 min)"],
+    "rooms": [
+      {
+        "code": "standard",
+        "name": "Standard City Room",
+        "price": 189,
+        "capacity": 2,
+        "refundable": true
+      },
+      {
+        "code": "suite",
+        "name": "Ocean View Suite",
+        "price": 289,
+        "capacity": 4,
+        "refundable": true
+      }
+    ],
+    "availability": {
+      "2026-03-01": 9,
+      "2026-03-02": 7,
+      "2026-03-03": 3,
+      "2026-03-04": 0,
+      "2026-03-05": 5,
+      "2026-03-06": 6
+    },
+    "reviews": [
+      {
+        "author": "Ava P.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "comment": "Beautiful views and very friendly staff."
+      },
+      {
+        "author": "Liam W.",
+        "rating": 4,
+        "date": "2025-12-02",
+        "comment": "Great location and clean rooms, breakfast could be better."
+      }
+    ]
+  },
+  {
+    "id": "metropolitan-lofts-nyc",
+    "name": "Metropolitan Lofts",
+    "location": "New York, NY",
+    "category": "City Hotel",
+    "rating": 4.5,
+    "reviewCount": 228,
+    "description": "Contemporary loft-style hotel in Midtown with coworking lounge and fast transit access.",
+    "amenities": ["WiFi", "Gym", "Parking", "Pet Friendly", "Restaurant"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "policies": [
+      "Free cancellation up to 24 hours before check-in.",
+      "Security hold required at check-in.",
+      "Paid valet parking available."
+    ],
+    "nearby": ["Times Square (6 min)", "Grand Central (9 min)", "JFK Airport (45 min)"],
+    "rooms": [
+      {
+        "code": "studio",
+        "name": "Studio Loft",
+        "price": 249,
+        "capacity": 2,
+        "refundable": true
+      },
+      {
+        "code": "family",
+        "name": "Family Loft",
+        "price": 339,
+        "capacity": 4,
+        "refundable": false
+      }
+    ],
+    "availability": {
+      "2026-03-01": 2,
+      "2026-03-02": 1,
+      "2026-03-03": 0,
+      "2026-03-04": 4,
+      "2026-03-05": 3,
+      "2026-03-06": 1
+    },
+    "reviews": [
+      {
+        "author": "Noah D.",
+        "rating": 5,
+        "date": "2026-02-04",
+        "comment": "Perfect for work trips, super fast WiFi."
+      },
+      {
+        "author": "Mia T.",
+        "rating": 4,
+        "date": "2025-11-18",
+        "comment": "Comfortable beds and convenient subway access."
+      }
+    ]
+  },
+  {
+    "id": "aspen-pine-lodge",
+    "name": "Aspen Pine Lodge",
+    "location": "Aspen, CO",
+    "category": "Mountain Retreat",
+    "rating": 4.7,
+    "reviewCount": 194,
+    "description": "Cozy alpine lodge with fireplace lounges, ski concierge, and panoramic mountain views.",
+    "amenities": ["Breakfast", "WiFi", "Hot Tub", "Parking", "Shuttle"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1493666438817-866a91353ca9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1472220625704-91e1462799b2?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "policies": [
+      "Free cancellation up to 7 days before check-in.",
+      "Ski shuttle runs every 30 minutes during season.",
+      "No smoking in all indoor areas."
+    ],
+    "nearby": ["Ski Lift (5 min)", "Downtown Aspen (12 min)", "ASE Airport (18 min)"],
+    "rooms": [
+      {
+        "code": "classic",
+        "name": "Classic Lodge Room",
+        "price": 219,
+        "capacity": 2,
+        "refundable": true
+      },
+      {
+        "code": "cabin-suite",
+        "name": "Cabin Suite",
+        "price": 359,
+        "capacity": 5,
+        "refundable": true
+      }
+    ],
+    "availability": {
+      "2026-03-01": 5,
+      "2026-03-02": 4,
+      "2026-03-03": 4,
+      "2026-03-04": 2,
+      "2026-03-05": 0,
+      "2026-03-06": 3
+    },
+    "reviews": [
+      {
+        "author": "Emma K.",
+        "rating": 5,
+        "date": "2026-01-26",
+        "comment": "Excellent lodge atmosphere and mountain views."
+      },
+      {
+        "author": "Lucas R.",
+        "rating": 4,
+        "date": "2025-10-07",
+        "comment": "Great shuttle service and warm common areas."
+      }
+    ]
+  },
+  {
+    "id": "desert-bloom-phoenix",
+    "name": "Desert Bloom Suites",
+    "location": "Phoenix, AZ",
+    "category": "Business Hotel",
+    "rating": 4.3,
+    "reviewCount": 168,
+    "description": "Modern suites with rooftop pool, conference facilities, and easy freeway access.",
+    "amenities": ["Pool", "WiFi", "Gym", "Parking", "Restaurant"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1566665797739-1674de7a421a?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1590490360182-c33d57733427?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1618773928121-c32242e63f39?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "policies": [
+      "Free cancellation up to 72 hours before check-in.",
+      "Rooftop pool hours: 7:00 AM to 10:00 PM.",
+      "Pet fee applies per night."
+    ],
+    "nearby": ["Convention Center (10 min)", "Downtown Phoenix (12 min)", "PHX Airport (16 min)"],
+    "rooms": [
+      {
+        "code": "queen",
+        "name": "Queen Suite",
+        "price": 149,
+        "capacity": 2,
+        "refundable": false
+      },
+      {
+        "code": "executive",
+        "name": "Executive Suite",
+        "price": 219,
+        "capacity": 3,
+        "refundable": true
+      }
+    ],
+    "availability": {
+      "2026-03-01": 8,
+      "2026-03-02": 10,
+      "2026-03-03": 11,
+      "2026-03-04": 7,
+      "2026-03-05": 7,
+      "2026-03-06": 9
+    },
+    "reviews": [
+      {
+        "author": "Olivia C.",
+        "rating": 4,
+        "date": "2026-01-11",
+        "comment": "Convenient for work events and check-in was smooth."
+      },
+      {
+        "author": "Mason F.",
+        "rating": 4,
+        "date": "2025-12-14",
+        "comment": "Comfortable suite, rooftop area was a highlight."
+      }
+    ]
+  },
+  {
+    "id": "harbor-house-seattle",
+    "name": "Harbor House Seattle",
+    "location": "Seattle, WA",
+    "category": "Boutique Hotel",
+    "rating": 4.6,
+    "reviewCount": 206,
+    "description": "Waterfront boutique stay with craft breakfast and a relaxed Scandinavian-inspired interior.",
+    "amenities": ["WiFi", "Breakfast", "Parking", "Pet Friendly", "Lounge"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1519822473471-6c7f7c8be0c3?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "policies": [
+      "Free cancellation up to 48 hours before check-in.",
+      "Complimentary artisan breakfast included.",
+      "Quiet hours observed after 10:00 PM."
+    ],
+    "nearby": ["Pike Place Market (7 min)", "Waterfront (4 min)", "SEA Airport (28 min)"],
+    "rooms": [
+      {
+        "code": "harbor",
+        "name": "Harbor Room",
+        "price": 199,
+        "capacity": 2,
+        "refundable": true
+      },
+      {
+        "code": "corner",
+        "name": "Corner King",
+        "price": 269,
+        "capacity": 3,
+        "refundable": true
+      }
+    ],
+    "availability": {
+      "2026-03-01": 4,
+      "2026-03-02": 5,
+      "2026-03-03": 6,
+      "2026-03-04": 3,
+      "2026-03-05": 2,
+      "2026-03-06": 2
+    },
+    "reviews": [
+      {
+        "author": "Sophia B.",
+        "rating": 5,
+        "date": "2026-02-02",
+        "comment": "Lovely interior design and amazing breakfast spread."
+      },
+      {
+        "author": "Ethan G.",
+        "rating": 4,
+        "date": "2025-12-22",
+        "comment": "Great location for exploring downtown on foot."
+      }
+    ]
+  },
+  {
+    "id": "sunset-bay-san-diego",
+    "name": "Sunset Bay Retreat",
+    "location": "San Diego, CA",
+    "category": "Family Resort",
+    "rating": 4.4,
+    "reviewCount": 281,
+    "description": "Family-friendly resort with kid zones, beach access, and spacious connecting rooms.",
+    "amenities": ["Pool", "WiFi", "Breakfast", "Kids Club", "Parking", "Gym"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1590490359854-dfba19688d70?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1592229505801-77c3f5b8f4ab?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "policies": [
+      "Free cancellation up to 5 days before check-in.",
+      "Kids Club available for ages 5 to 12.",
+      "Beach gear rentals available on-site."
+    ],
+    "nearby": ["Mission Beach (3 min)", "SeaWorld (10 min)", "SAN Airport (18 min)"],
+    "rooms": [
+      {
+        "code": "garden",
+        "name": "Garden Room",
+        "price": 179,
+        "capacity": 3,
+        "refundable": false
+      },
+      {
+        "code": "family-suite",
+        "name": "Family Suite",
+        "price": 309,
+        "capacity": 5,
+        "refundable": true
+      }
+    ],
+    "availability": {
+      "2026-03-01": 6,
+      "2026-03-02": 0,
+      "2026-03-03": 5,
+      "2026-03-04": 4,
+      "2026-03-05": 3,
+      "2026-03-06": 6
+    },
+    "reviews": [
+      {
+        "author": "Charlotte M.",
+        "rating": 4,
+        "date": "2026-01-18",
+        "comment": "Perfect for traveling with kids and plenty to do."
+      },
+      {
+        "author": "James V.",
+        "rating": 5,
+        "date": "2025-11-03",
+        "comment": "Excellent beach proximity and friendly team."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "slot-1",
+    "serviceId": "spa-deep-tissue",
+    "date": "2026-03-02",
+    "time": "10:00",
+    "available": true
+  },
+  {
+    "id": "slot-2",
+    "serviceId": "spa-deep-tissue",
+    "date": "2026-03-02",
+    "time": "13:00",
+    "available": true
+  },
+  {
+    "id": "slot-3",
+    "serviceId": "city-photo-tour",
+    "date": "2026-03-03",
+    "time": "09:30",
+    "available": false
+  },
+  {
+    "id": "slot-4",
+    "serviceId": "city-photo-tour",
+    "date": "2026-03-03",
+    "time": "15:00",
+    "available": true
+  },
+  {
+    "id": "slot-5",
+    "serviceId": "airport-transfer",
+    "date": "2026-03-04",
+    "time": "08:00",
+    "available": true
+  },
+  {
+    "id": "slot-6",
+    "serviceId": "airport-transfer",
+    "date": "2026-03-04",
+    "time": "12:00",
+    "available": true
+  }
+]
